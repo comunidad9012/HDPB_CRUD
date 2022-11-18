@@ -1,4 +1,4 @@
-# Repo Hora
+# HDPB_CRUD. Patiño H. Damian
 # El programa es un ABM/CRUD simple realizado en Python.
 # El archivo conexion.py realiza la conexion desde Python a la db colegio.sql
 # main.py contiene inicialmente la interfaz realizada con tkinter mientras que en la parte inferior se encuentran la mayoria de las funciones que necesita el programa para funcionar.
